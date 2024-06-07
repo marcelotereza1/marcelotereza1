@@ -11,5 +11,3 @@ Meu nome é Marcelo Gomes
 00001094875144sp@al.educacao.sp.gov.br
 
 @mask_sp14
-
-![descrição do GIF](link GIF do Tenor)
